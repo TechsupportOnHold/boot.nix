@@ -37,6 +37,6 @@
     };
     environment.systemPackages = with pkgs; [
       plymouth
-      kdePackages.breeze-plymouth
+      breeze-plymouth
     ];
 }
